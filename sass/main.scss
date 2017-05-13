@@ -1,0 +1,10 @@
+@import "color";
+@import "list";
+body {
+	background-color: $blue;
+	color: $white;
+}
+
+button {
+	margin-top: 50px;
+}

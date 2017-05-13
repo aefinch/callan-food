@@ -1,0 +1,13 @@
+.list {
+  background-image: url("../images/cookie_monster.jpg");
+  height: 100vh; }
+
+li {
+  margin-top: 20px; }
+
+body {
+  background-color: #b3ffe6;
+  color: #fff; }
+
+button {
+  margin-top: 50px; }
